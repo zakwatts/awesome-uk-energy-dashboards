@@ -1,6 +1,6 @@
 # awesome-uk-energy-dashboards
 
-A collection of dashboards and resources useful energy generation and forecasts in the UK.
+A collection of dashboards and resources for energy generation and forecasts in the UK.
 
 ## 📊 Real-time Grid Monitoring and Forecasting
 
