@@ -8,6 +8,7 @@ A collection of dashboards and resources for energy generation and forecasts in 
 - [Electric Insights](https://electricinsights.co.uk/)
 - [NESO Energy Data Portal](https://www.neso.energy/data-portal)
 - [Kate's Grid](https://grid.iamkate.com/)
+- [ElectricityLive](https://electricitylive.com/)
 - [Energy Charts UK](https://www.energy-charts.info/index.html?l=en&c=UK)
 - [Gridwatch](https://gridwatch.co.uk/)
 - [Terravolt UK Grid Visual](https://terravolt.co.uk/uk-grid-visual/)
